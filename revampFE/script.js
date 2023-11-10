@@ -15,7 +15,7 @@ const createCard = (animal) => {
 	const card = `<section class="animal-card">
                 <div class="animal-card-pic"><img class="animal-pic" src="${
 									animal.photo
-								}" alt="Picture of a cat" /></div>
+								}" alt="Picture of ${animal.name} the ${animal.species}" /></div>
                 <div class="animal-card-info">
                     <h3 class="animal-name">${animal.name}</h3>
                     <small class="animal-meta">

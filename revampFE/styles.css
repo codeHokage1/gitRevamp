@@ -131,3 +131,23 @@ main{
     border-bottom: 2px solid var(--my-green);
 }
 
+@media screen and (max-width: 768px){
+    .animal-card{
+        width: 90%;
+        grid-template-columns: 1fr;
+        grid-template-rows: 300px 1fr;
+        font-size: 1.3rem;
+    }
+    .animal-card-info{
+        padding: 1em;
+    }
+    .animal-name{
+        font-size: 1.5rem;
+    }    
+    .on-big-screen{
+        display: none;
+    }
+    .nav{
+        font-size: 1.3rem;
+    }
+}
