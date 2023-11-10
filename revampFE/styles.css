@@ -76,6 +76,10 @@ main{
     background-color: var(--my-orange);
     color: var(--my-black);
 }
+#active{
+    background-color: var(--my-orange);
+    color: var(--my-black);
+}
 
 .animal-card{
     width: 60%;
