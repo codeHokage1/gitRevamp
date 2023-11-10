@@ -1,14 +1,7 @@
-# gitRevamp
+# Revamp
 
-Updating the readme from the GUI on the main branch
+It's not just `gitRevamp`. I used this to revamp a couple of things:
 
-Updated one more time from the GUI on main
-
-Added one work via GUI on main
-
-Updated for the final workflow getting
-
-Added this one line
-
-Last time
+- Git & GitHub: Branching, Forking, Commits, PRs, Workflows; amongst others
+- HTML + CSS + JS: Built this responsive app: `https://codehokage1.github.io/gitRevamp/revampFE/`
 
